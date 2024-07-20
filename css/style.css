@@ -515,7 +515,6 @@ button {
     display: flex;
     flex-direction: column;
     align-items: baseline;
-    gap: 16px;
 }
 
 .subscribe-footer-text {
@@ -523,6 +522,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
+    margin-bottom: 16px;
 }
 
 .subscribe-form {
